@@ -1,3 +1,3 @@
 # Dwag.io
 
-The homepage and portfolio page of Aric "dwagio" Hasting.
+The homepage and portfolio page of Aric Hasting.
